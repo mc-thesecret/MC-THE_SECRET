@@ -1,0 +1,7 @@
+#Put your trusted domains in this file.
+#Trusted domains can connect to websend via php->websend.
+#Domains are allowed in either IP or hostname form.
+#To allow everybody put trust_all
+trust_all
+#http://example.com/
+#123.456.798.132
